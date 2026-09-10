@@ -17,6 +17,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0841-keys-and-rooms](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1791-find-center-of-star-graph) |
 ## Array
@@ -27,4 +28,12 @@
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0997-find-the-town-judge) |
+## Depth-First Search
+|  |
+| ------- |
+| [0841-keys-and-rooms](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0841-keys-and-rooms) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0841-keys-and-rooms](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0841-keys-and-rooms) |
 <!---LeetCode Topics End-->
