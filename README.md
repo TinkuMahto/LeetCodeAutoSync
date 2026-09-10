@@ -36,6 +36,7 @@
 | [0463-island-perimeter](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0841-keys-and-rooms) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -47,4 +48,12 @@
 | ------- |
 | [0463-island-perimeter](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0733-flood-fill) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
