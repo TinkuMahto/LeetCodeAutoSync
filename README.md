@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0940-distinct-subsequences-ii](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0940-distinct-subsequences-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Math
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | [0695-max-area-of-island](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0733-flood-fill) |
 | [0997-find-the-town-judge](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0997-find-the-town-judge) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -83,4 +85,12 @@
 | [0130-surrounded-regions](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0695-max-area-of-island) |
+## Binary Search
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Sorting
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
