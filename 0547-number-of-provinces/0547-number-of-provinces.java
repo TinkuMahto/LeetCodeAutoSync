@@ -1,6 +1,18 @@
 class Solution {
-    public int findCircleNum(int[][] isConnected) {
 
+    private void dfs(ArrayList<Integer>[] graph, int i, boolean[] visited ){
+        visited[i] = true;
+
+        for(int j=0; j<graph[i].size(); j++){
+            if(!visited[graph[i].get(j)]){
+                dfs(graph, graph[i].get(j), visited);
+            }
+            
+        }
+    }
+
+    
+    public int findCircleNum(int[][] isConnected) {
         int n = isConnected.length;
         ArrayList<Integer> [] graph = new ArrayList[n];
         boolean[] visited = new boolean[n];
@@ -28,14 +40,5 @@ class Solution {
 
         return count;
     }
-    private void dfs(ArrayList<Integer>[] graph, int i, boolean[] visited ){
-        visited[i] = true;
-
-        for(int j=0; j<graph[i].size(); j++){
-            if(!visited[graph[i].get(j)]){
-                dfs(graph, graph[i].get(j), visited);
-            }
-            
-        }
-    }
+    
 }
