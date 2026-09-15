@@ -6,10 +6,12 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0012-integer-to-roman) |
 | [0940-distinct-subsequences-ii](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0940-distinct-subsequences-ii](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Math
 |  |
@@ -107,4 +109,12 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0836-rectangle-overlap) |
+## Two Pointers
+|  |
+| ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Greedy
+|  |
+| ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 <!---LeetCode Topics End-->
