@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0012-integer-to-roman) |
+| [0819-most-common-word](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0819-most-common-word) |
 | [0940-distinct-subsequences-ii](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0940-distinct-subsequences-ii) |
 | [1436-destination-city](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1436-destination-city) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -40,6 +41,7 @@
 | [0463-island-perimeter](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0733-flood-fill) |
+| [0819-most-common-word](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0819-most-common-word) |
 | [0835-image-overlap](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0835-image-overlap) |
 | [0997-find-the-town-judge](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0997-find-the-town-judge) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -54,6 +56,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0012-integer-to-roman) |
 | [0133-clone-graph](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0133-clone-graph) |
+| [0819-most-common-word](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0819-most-common-word) |
 | [0997-find-the-town-judge](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0997-find-the-town-judge) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1436-destination-city](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1436-destination-city) |
@@ -151,4 +154,8 @@
 | ------- |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3498-reverse-degree-of-a-string](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3498-reverse-degree-of-a-string) |
+## Counting
+|  |
+| ------- |
+| [0819-most-common-word](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0819-most-common-word) |
 <!---LeetCode Topics End-->
