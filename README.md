@@ -42,6 +42,7 @@
 | [0733-flood-fill](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0835-image-overlap) |
 | [0997-find-the-town-judge](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0997-find-the-town-judge) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1436-destination-city](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1436-destination-city) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -53,6 +54,7 @@
 | [0012-integer-to-roman](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0012-integer-to-roman) |
 | [0133-clone-graph](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0133-clone-graph) |
 | [0997-find-the-town-judge](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0997-find-the-town-judge) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1436-destination-city](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1436-destination-city) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -112,11 +114,13 @@
 ## Binary Search
 |  |
 | ------- |
+| [1346-check-if-n-and-its-double-exist](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
 |  |
 | ------- |
+| [1346-check-if-n-and-its-double-exist](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -128,6 +132,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [1346-check-if-n-and-its-double-exist](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
