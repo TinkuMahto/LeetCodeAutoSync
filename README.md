@@ -14,6 +14,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0509-fibonacci-number) |
 | [0940-distinct-subsequences-ii](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0012-integer-to-roman) |
+| [0509-fibonacci-number](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3870-count-commas-in-range](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3870-count-commas-in-range) |
@@ -104,6 +106,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -158,4 +161,8 @@
 |  |
 | ------- |
 | [0819-most-common-word](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0819-most-common-word) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
