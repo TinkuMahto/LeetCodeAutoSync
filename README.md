@@ -14,6 +14,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0509-fibonacci-number) |
 | [0940-distinct-subsequences-ii](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0012-integer-to-roman) |
+| [0070-climbing-stairs](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -164,5 +166,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
