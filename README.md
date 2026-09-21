@@ -16,6 +16,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0746-min-cost-climbing-stairs) |
 | [0940-distinct-subsequences-ii](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -45,6 +46,7 @@
 | [0463-island-perimeter](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0746-min-cost-climbing-stairs) |
 | [0819-most-common-word](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0819-most-common-word) |
 | [0835-image-overlap](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0835-image-overlap) |
 | [0997-find-the-town-judge](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0997-find-the-town-judge) |
