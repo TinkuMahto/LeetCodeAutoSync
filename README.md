@@ -56,6 +56,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1436-destination-city](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1436-destination-city) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3074-apple-redistribution-into-boxes](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3074-apple-redistribution-into-boxes) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -73,6 +74,7 @@
 | [1436-destination-city](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1436-destination-city) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3483-unique-3-digit-even-numbers](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3483-unique-3-digit-even-numbers) |
 ## Depth-First Search
@@ -132,6 +134,7 @@
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
 |  |
@@ -161,6 +164,7 @@
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Simulation
 |  |
 | ------- |
@@ -179,4 +183,8 @@
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3525-find-x-value-of-array-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
