@@ -10,6 +10,7 @@
 | [1096-brace-expansion-ii](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1096-brace-expansion-ii) |
 | [1436-destination-city](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1436-destination-city) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
@@ -59,6 +60,7 @@
 | [1436-destination-city](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1436-destination-city) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3074-apple-redistribution-into-boxes](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3074-apple-redistribution-into-boxes) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -79,6 +81,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3483-unique-3-digit-even-numbers](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3483-unique-3-digit-even-numbers) |
 ## Depth-First Search
