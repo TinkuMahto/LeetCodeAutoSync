@@ -7,6 +7,7 @@
 | [0012-integer-to-roman](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0032-longest-valid-parentheses) |
 | [0819-most-common-word](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0819-most-common-word) |
 | [0940-distinct-subsequences-ii](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1096-brace-expansion-ii) |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0746-min-cost-climbing-stairs) |
@@ -213,6 +215,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0032-longest-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -221,6 +224,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
