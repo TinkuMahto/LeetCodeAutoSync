@@ -8,6 +8,7 @@
 | [0020-valid-parentheses](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0032-longest-valid-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0678-valid-parenthesis-string) |
 | [0819-most-common-word](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0819-most-common-word) |
 | [0856-score-of-parentheses](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0856-score-of-parentheses) |
@@ -113,6 +114,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0133-clone-graph) |
+| [0301-remove-invalid-parentheses](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0301-remove-invalid-parentheses) |
 | [0463-island-perimeter](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0695-max-area-of-island) |
@@ -216,6 +218,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
