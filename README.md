@@ -83,6 +83,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3074-apple-redistribution-into-boxes) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3483-unique-3-digit-even-numbers) |
@@ -107,6 +108,7 @@
 | [2154-keep-multiplying-found-values-by-two](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3483-unique-3-digit-even-numbers) |
 ## Depth-First Search
 |  |
@@ -229,6 +231,7 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3525-find-x-value-of-array-ii) |
 ## Prefix Sum
 |  |
@@ -279,4 +282,5 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
