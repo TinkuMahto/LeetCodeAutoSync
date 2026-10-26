@@ -93,6 +93,7 @@
 | [3524-find-x-value-of-array-i](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
@@ -126,6 +127,7 @@
 | [0841-keys-and-rooms](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0841-keys-and-rooms) |
 | [1254-number-of-closed-islands](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -139,6 +141,7 @@
 | [0841-keys-and-rooms](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0841-keys-and-rooms) |
 | [1096-brace-expansion-ii](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
@@ -149,6 +152,7 @@
 | [0835-image-overlap](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Tree
 |  |
 | ------- |
@@ -174,6 +178,7 @@
 | [0547-number-of-provinces](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
