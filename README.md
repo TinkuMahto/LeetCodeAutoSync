@@ -47,6 +47,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0070-climbing-stairs) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0130-surrounded-regions) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0463-island-perimeter](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0733-flood-fill) |
