@@ -28,8 +28,6 @@ class Solution {
             long cost1 = findCost(nums, cost, mid);
             long cost2 = findCost(nums, cost, mid+1);
 
-            answer = Math.min(answer, Math.min(cost1, cost2));
-
             if(cost2 > cost1) {
                 r = mid;
             }else{
