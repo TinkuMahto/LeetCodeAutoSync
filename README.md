@@ -85,6 +85,7 @@
 | [0997-find-the-town-judge](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0997-find-the-town-judge) |
 | [1254-number-of-closed-islands](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1254-number-of-closed-islands) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1436-destination-city](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1436-destination-city) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -203,6 +204,7 @@
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -214,6 +216,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1096-brace-expansion-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2248-intersection-of-multiple-arrays](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/2248-intersection-of-multiple-arrays) |
@@ -231,6 +234,7 @@
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
