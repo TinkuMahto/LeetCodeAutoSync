@@ -15,9 +15,12 @@
  */
 class Solution {
 
-    int total = 0;
+    int total;
 
     public int pathSum(TreeNode root, int targetSum) {
+
+        total = 0;
+        
         if(root == null) {
             return 0;
         }
