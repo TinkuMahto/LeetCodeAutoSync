@@ -84,6 +84,7 @@
 | [0835-image-overlap](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0835-image-overlap) |
 | [0997-find-the-town-judge](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0997-find-the-town-judge) |
 | [1254-number-of-closed-islands](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1267-count-servers-that-communicate) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1436-destination-city](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1436-destination-city) |
@@ -149,6 +150,7 @@
 | [0733-flood-fill](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0841-keys-and-rooms) |
 | [1254-number-of-closed-islands](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -166,6 +168,7 @@
 | [0841-keys-and-rooms](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0841-keys-and-rooms) |
 | [1096-brace-expansion-ii](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
@@ -176,6 +179,7 @@
 | [0733-flood-fill](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -215,6 +219,7 @@
 | [0547-number-of-provinces](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search
 |  |
@@ -281,6 +286,7 @@
 |  |
 | ------- |
 | [0819-most-common-word](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0819-most-common-word) |
+| [1267-count-servers-that-communicate](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/1267-count-servers-that-communicate) |
 | [2248-intersection-of-multiple-arrays](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/2248-intersection-of-multiple-arrays) |
 ## Memoization
 |  |
