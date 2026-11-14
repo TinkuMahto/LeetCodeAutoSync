@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0012-integer-to-roman) |
+| [0050-powx-n](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0070-climbing-stairs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -217,6 +218,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
