@@ -77,6 +77,7 @@
 ## Array
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0130-surrounded-regions) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -127,6 +128,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0133-clone-graph) |
 | [0819-most-common-word](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0819-most-common-word) |
 | [0997-find-the-town-judge](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0997-find-the-town-judge) |
@@ -203,6 +205,7 @@
 ## Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -218,6 +221,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -395,6 +399,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
 |  |
