@@ -212,6 +212,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0700-search-in-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
@@ -226,6 +227,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0700-search-in-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Recursion
 |  |
@@ -400,6 +402,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Lifting
 |  |
 | ------- |
