@@ -157,6 +157,7 @@
 | [0437-path-sum-iii](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0733-flood-fill) |
@@ -175,6 +176,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0301-remove-invalid-parentheses) |
 | [0463-island-perimeter](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0733-flood-fill) |
@@ -206,6 +208,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
@@ -218,6 +221,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TinkuMahto/LeetCodeAutoSync/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Recursion
 |  |
